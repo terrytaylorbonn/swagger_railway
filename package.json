@@ -1,0 +1,23 @@
+{
+  "name": "swagger_railway",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terrytaylorbonn/swagger_railway.git"
+  },
+  "author": "tt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/terrytaylorbonn/swagger_railway/issues"
+  },
+  "homepage": "https://github.com/terrytaylorbonn/swagger_railway#readme",
+  "description": "",
+  "dependencies": {
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
